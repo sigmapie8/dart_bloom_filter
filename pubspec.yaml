@@ -1,4 +1,4 @@
-name: bloom_filter
+name: dart_bloom_filter
 description: A Dart implementation of a bloom filter. Bloom filters are a space-efficient probabilistic data structure that is used to test whether an element is a member of a set.
 version: 1.0.0
 repository: https://github.com/sigmapie8/bloom_filter
@@ -11,7 +11,6 @@ dependencies:
   murmurhash: ^1.0.1
   bit_array: ^2.2.0
   json_annotation: ^4.8.0
-  mockito: ^5.3.2
 
 dev_dependencies:
   lints: ^2.0.0

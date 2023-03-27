@@ -1,4 +1,4 @@
-import 'package:bloom_filter/src/bloom_filter.dart';
+import 'package:dart_bloom_filter/src/bloom_filter.dart';
 
 void main() {
   final items = [
